@@ -2,18 +2,26 @@
 <img width="1000" height="400" src="https://github.com/melloignat/melloignat/blob/main/assets/586f7407c39b99124dca5d336af88287.gif"  alt="animated" />
 </p>
 
+### <p align="center">Hi, my name is Ignat! 👋</p>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/ignat-ivanov-8245681a/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/mello_ignat">
+  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  </a>
+  <a href="https://vk.com/judge_cat](https://vk.com/id3721378">
+  <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge"/>
+  </a>
+</div>
+
 <div align="center">
 
-# Hello, I'm Dmitriy 👋
+  <a href="">[![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-28D146?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF)](https://wa.me/9601904218)</a>
 
 </div>
 
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&pause=1000&color=F7F7F7&center=true&width=435&lines=%F0%9F%94%A5+Data+Scientist+%F0%9F%94%A5)](https://git.io/typing-svg)
-
-</div>
 
 Hey!
 - I am a Deep Learning Engineer-Researcher with 3 years of experience. Whether it's Machine Learning, Deep Learning, NLP/LLM, Computer Vision, or high-load system architecture, I'm dedicated to exploring and mastering these domains.
