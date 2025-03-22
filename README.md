@@ -1,5 +1,5 @@
 <p align="center">
-<img width="400" height="250" src="https://github.com/melloignat/melloignat/blob/main/assets/586f7407c39b99124dca5d336af88287.gif"  alt="animated" />
+<img width="1000" height="400" src="https://github.com/melloignat/melloignat/blob/main/assets/586f7407c39b99124dca5d336af88287.gif"  alt="animated" />
 </p>
 
 <div align="center">
