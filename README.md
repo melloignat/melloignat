@@ -1,4 +1,4 @@
-![Header](https://github.com/melloignat/melloignat/blob/main/assets/tron-legacy-jmjk8qoc00xhbd7r.gif)
+![Header](https://github.com/melloignat/melloignat/blob/main/assets/tron-legacy-jmjk8qoc00xhbd7r.gif?raw=true)
 
 <div align="center">
 
