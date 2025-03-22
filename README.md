@@ -1,6 +1,6 @@
-<div align="center">
+<p align="center">
 ![Header](https://github.com/melloignat/melloignat/blob/main/assets/tron-legacy-jmjk8qoc00xhbd7r.gif?raw=true)
-</div>
+</p>
 <div align="center">
 
 # Hello, I'm Dmitriy 👋
