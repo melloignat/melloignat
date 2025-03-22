@@ -1,6 +1,7 @@
 <p align="center">
-![Header](https://github.com/melloignat/melloignat/blob/main/assets/tron-legacy-jmjk8qoc00xhbd7r.gif?raw=true)
+<img width="400" height="250" src="https://github.com/melloignat/melloignat/blob/main/assets/tron-legacy-jmjk8qoc00xhbd7r.gif"  alt="animated" />
 </p>
+
 <div align="center">
 
 # Hello, I'm Dmitriy 👋
