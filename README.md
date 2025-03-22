@@ -2,7 +2,7 @@
 <img width="1000" height="400" src="https://github.com/melloignat/melloignat/blob/main/assets/586f7407c39b99124dca5d336af88287.gif"  alt="animated" />
 </p>
 
-### <p align="center">Hi, my name is Ignat! 👋</p>
+### <p align="center">Hi, my name is Ignat! 👋 On my way to AI driven future!</p>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ignat-ivanov-8245681a/">
@@ -11,30 +11,18 @@
   <a href="https://t.me/mello_ignat">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
-  <a href="https://vk.com/judge_cat](https://vk.com/id3721378">
+  <a href="https://vk.com/id3721378">
   <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge"/>
   </a>
+  <a href="https://wa.me/9852267205">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge"/>
+  </a>
 </div>
-
-<div align="center">
-
-  <a href="">[![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-28D146?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF)](https://wa.me/9601904218)</a>
-
-</div>
-
-
-Hey!
-- I am a Deep Learning Engineer-Researcher with 3 years of experience. Whether it's Machine Learning, Deep Learning, NLP/LLM, Computer Vision, or high-load system architecture, I'm dedicated to exploring and mastering these domains.
-
-- I also have experience leading AI teams and executing client projects, from researching the target audience and writing technical specifications to building ML systems and validating models. As a result, I am well-versed in both business tasks and the technical aspects of projects.
-
-- In the dynamic realm of data science and machine learning, I excel in assembling top-notch teams within Agile environments to create groundbreaking solutions for enterprises.
-
-- I advocate for ambitious aspirations and aspire to foster even greater innovation. Embracing new challenges and collaborations is a constant for me. Let's connect and explore ways to positively impact the world!
-
-You can contact me:
-telegram: https://t.me/ngmdite (preferred)
-email: dima.savelko@gmail.com
+<p></p>
+<p align="justify">In IT since 2003. Started from Windows systems administration, moved to network administration later and finally to PM, team management and leading activities. Have many technical certificates from variety of vendors like Cisco, Juniper, Brocade, Red Hat and more. ITIL certified. Wide knowledge of network technologies with focus on VoIP. Results-oriented, overtime job is not a problem. Ready for long business trips. Current interests tied with IoT and ML areas + Python programming. Actively studying Data Science, LLM (NLP + LLM for RAG)and related technologies through variety of courses and self-education. My strengths are responsibility, stress tolerance, high initiative, stakeholders' management and loyalty to the employer company and the team, punctuality, diligence. Volunteered in Chile as part of a corporate program, where had to prepare a marketing plan for one of the local university departments and successfully coped with the task in an unfamiliar cultural and professional environment. Received IT services sales training at the IBM Global Sales School (sales techniques, product positioning, negotiations, storytelling, whiteboarding, final offer preparation, customer relationship support, value realization etc.).
+Successfully was able to build from scratch quality IT support processes in one of the CIS countries within one-month period. Providing local business with ITSM\ITIL oriented helpdesk to support business needs and growth.</p>
+<p align="justify">Technical publications - https://www.ibm.com/developerworks/aix/library/au-aix-bladecenter-configuration/index.html</p>
+<p align="justify">IT Service Management │ Team leadership │ People management │ Stakeholders management │ Business partnering | Remote and virtual team management │ Employee engagement │ Service Desk management │ Escalation management │ Program team lead │ Vendor management │ Global Governance & Compliance │ ITIL | Cisco | DevOps | Python | SQL | Linux | VoIP | Bash | Agile thinking | ML & DS | LLM</p>
 
 ## Languages and tools 🔧
 
@@ -42,12 +30,9 @@ email: dima.savelko@gmail.com
 
 ![Python](https://img.shields.io/badge/-Python-0b0038?style=for-the-badge&logo=python&logoColor=3c78a9)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0b0038?style=for-the-badge&logo=PyTorch&logoColor=d84f35)
-![SQLite](https://img.shields.io/badge/sqlite-0b0038?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-0b0038?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0b0038?style=for-the-badge&logo=scipy&logoColor=%white)
 ![NumPy](https://img.shields.io/badge/numpy-0b0038?style=for-the-badge&logo=numpy&logoColor=4c74cc)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0b0038?style=for-the-badge&logo=scikit-learn&logoColor=fa9b38)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-0b0038?style=for-the-badge&logo=Apache%20Airflow&logoColor=e4351d)
 ![Linux](https://img.shields.io/badge/Linux-0b0038?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
