@@ -61,6 +61,6 @@ Current interests tied with IoT and ML areas and Python programming. Actively st
 
 |Project Name| Description| Technology|
 |----------------|-----------------|-----|
-|Project_1 - Ladle temperature prediction for a steel plant.  (__[github](https://github.com/vickiticy/for_project_1)__)|Building several models (and selecting the best one) for a metallurgical plant to find a way to optimize ladle temperature to save costs to heat it during the production process through ladle temperature prediction.|pandas, sklearn, seaborn,  matplotlib, lightgbm, gridsearch, catboost, randomforest |
+|Project_1 - Ladle temperature prediction for a steel plant.  (__[github](https://github.com/melloignat/proj_1)__)|Building several models (and selecting the best one based on MAE) for a metallurgical plant to find a way to optimize ladle temperature to save costs to heat it during the production process through ladle temperature prediction.|pandas, sklearn, seaborn,  matplotlib, lightgbm, gridsearch, catboost, randomforest, linear regression |
 
 
