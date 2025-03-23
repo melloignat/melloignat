@@ -19,37 +19,51 @@
   </a>
 </div>
 <p></p>
-<p align="justify">In IT since 2003. Started from Windows administrator, moved to network engineer later and finally to PM, department manager and IT director. Have many technical certificates from variety of vendors like Cisco, Juniper, Brocade, Red Hat and more. ITIL certified. Wide knowledge of network technologies with focus on VoIP. Current interests tied with IoT and ML areas + Python programming. Actively studying Data Science, LLM (NLP + LLM for RAG) and related technologies through variety of courses and self-education. Do believe that so-called AI is not a miraclous tool to fix everything but a useful companion to make thing easier in a variety of ways.</p>
-<p align="justify">Technical publications - https://www.ibm.com/developerworks/aix/library/au-aix-bladecenter-configuration/index.html</p>
-<p align="justify">IT Service Management │ Team leadership │ People management │ Stakeholders management │ Business partnering | Remote and virtual team management │ Employee engagement │ Service Desk management │ Escalation management │ Program team lead │ Vendor management │ Global Governance & Compliance │ ITIL | Cisco | DevOps | Python | SQL | Linux | VoIP | Bash | Agile thinking | ML & DS | LLM</p>
+<div id="about">
+ <ul>
+  <li>Passionate about data analisys and ML 📈</li>
+  <li>Ready for any collaboration! 🤝</li>
+</ul> 
+</div>
+<p></p>
+<p align="justify">Passionate about IT services creation, automation and continuous improvement aligned with the business strategy. Like challenging tasks and to work in constantly changing environment shaping IT support and other services to be fit for external and internal clients.
+Have experience to successfully deliver results within short timeframes in an unfamiliar cultural and professional environment. Trained for IT services sales with strong understanding of sales techniques, product positioning, negotiations, storytelling, whiteboarding, final offer preparation, customer relationship support and value realization.
+In IT since 2003. Started from Windows systems administration, moved to network administration later and finally to build and delivery full IT service portfolio and top performing teams. Have many technical certificates from variety of vendors like Cisco, Juniper, Brocade, Red Hat and more. ITIL certified. Wide knowledge of network technologies with focus on VoIP. Results-oriented, overtime job is not a problem. 
+Current interests tied with IoT and ML areas and Python programming. Actively studying Data Science, ML, DA, LLMs and related technologies for IT services automation through variety of courses and self-education.</p>
 
-## Languages and tools 🔧
+## Programming languages and DS tools 🔧
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-0b0038?style=for-the-badge&logo=python&logoColor=3c78a9)
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0b0038?style=for-the-badge&logo=PyTorch&logoColor=d84f35)
-![Pandas](https://img.shields.io/badge/pandas-0b0038?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-0b0038?style=for-the-badge&logo=numpy&logoColor=4c74cc)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0b0038?style=for-the-badge&logo=scikit-learn&logoColor=fa9b38)
-![Linux](https://img.shields.io/badge/Linux-0b0038?style=for-the-badge&logo=linux&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 </div>
 
-## Follow me 👀
+## Network and OS tools 🔧
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0b0038?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriysavelko/)
-[![Telegram](https://img.shields.io/badge/Telegram-0b0038?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ditengm)
-[![Instagram](https://img.shields.io/badge/Instagram-0b0038?style=for-the-badge&logo=Instagram&logoColor=#ab46e3)](https://www.instagram.com/ditengm/)
-[![Vkontakte](https://img.shields.io/badge/Instagram-0b0038?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/dsvlko)
-[![Gmail](https://img.shields.io/badge/Gmail-0b0038?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/?pli=1#inbox)
+![Cisco](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![GNUBash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
 </div>
 
-<div align="center">
+## My projects 🔧
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ditengm&theme=midnight-purple&show_icons=true)
 
-</div>
+|Project Name| Description| Technology|
+|----------------|-----------------|-----|
+|Проект 1  Исследование нескольких аспектов мобильной игры  (__[github](https://github.com/vickiticy/for_project_1)__)|Выбор, расчет продуктовых метрик (Conversion Rate, ARPPU и др.). Проверка гипотез, анализ результатов А/B-теста (тест на независимость Хи-квадрат, T-test, Bootstrap).|pandas,numpy,seaborn,  matplotlib,scipy,requests|
+|Проект 2 Анализ продуктовых метрик  (__[github](https://github.com/vickiticy/for_project_2)__)|Расчет и анализ продуктовых метрик(MAU, ROMI, CR).Присвоение пользователям когорты и получение конверсии из установки в покупку в течение 7 дней. Поиск этапа воронки, на котором отваливается бОльшая часть клиентов.|pandas,plotly,requests,Tableau|
+|Проект 3 RFM-анализ  (__[github](https://github.com/vickiticy/for_project_3)__)|Сегментация пользователей, проведение RFM-анализа|pandas|
+|Проект 4 E-commerce  (__[github](https://github.com/vickiticy/for_project_4)__)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|pandas,seaborn,matplotlib,requests|
+|Проекты SQL  (__[github](https://github.com/vickiticy/for_SQL)__)|Решение задач по группировке, агрегатным функциям, объединению таблиц, преобразованию типов данных, подзапросам, представлениям, созданию таблиц, ETL(Python+SQL), оконным функциям, визуализации в Redash|SQL,ClickHouse,PostgreSQL,  Redash,pandas,pandahouse,  numpy,seaborn,matplotlib|
+
