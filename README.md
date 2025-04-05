@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1000" height="400" src="https://github.com/melloignat/melloignat/blob/main/assets/586f7407c39b99124dca5d336af88287.gif"  alt="animated" />
+<img width="500" height="200" src="https://github.com/melloignat/melloignat/blob/main/assets/586f7407c39b99124dca5d336af88287.gif"  alt="animated" />
 </p>
 
 ### <p align="center">Hi, my name is Ignat! 👋 On my way to AI driven future!</p>
