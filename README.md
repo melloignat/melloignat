@@ -41,7 +41,7 @@
   <tr>
     <td>Cisco</td>
     <td>Cisco Certified Network Professional (CCNP)</td>
-    <td>https://github.com/melloignat/certificates/blob/main/RHCE.PNG</td>
+    <td>https://github.com/melloignat/certificates/blob/main/CCNP_Ignat_Ivanov_edited.jpg</td>
   </tr>
   <tr>
     <td>Red Hat</td>
