@@ -5,7 +5,7 @@
     <td><p align="center">
 <img width="300" height="150" src="https://github.com/melloignat/melloignat/blob/main/assets/586f7407c39b99124dca5d336af88287.gif"  alt="animated" />
 </p></td>
-    <td><p>Passionate about ML, Data Analysis and IT services creation, automation and continuous improvement aligned with best industry practices and the business strategy.</p><p>ITIL, Cisco, Juniper, Brocade, Red Hat certified specialist. Wide technical background with focus on VoIP. Python, SQL, Bash, Fast API, ML & DS.</p><p>More that 20 years in IT building effective IT support structures based on well-known methodologies and leading diverse teams to enable business to focus on the main things backed up by effective, fast and reliable IT services.</p><p>Current interests tied with IoT and ML areas and Python programming. Actively studying Data Science, ML, DA, LLMs and related technologies for IT services automation through variety of courses and self-education.</p></td>
+    <td><p>Passionate about ML, Data Analysis and IT services creation, automation and continuous improvement aligned with best industry practices and the business strategy.</p><p>ITIL, Cisco, Juniper, Brocade, Red Hat certified specialist. Wide technical background with focus on VoIP. Python, SQL, Bash, Fast API, ML & DS.</p><p>More that 20 years in IT building effective IT support structures based on well-known methodologies while leading diverse technical teams to enable business to focus on the strategy backed up by effective, fast and reliable IT services.</p><p>Current interests tied with IoT and ML areas and Python programming. Actively studying Data Science, ML, DA, LLMs and related technologies for IT services automation through variety of courses and self-education.</p></td>
   </tr>
 </table> 
 
@@ -15,9 +15,6 @@
   </a>
   <a href="https://t.me/mello_ignat">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
-  </a>
-  <a href="https://vk.com/id3721378">
-  <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://wa.me/9852267205">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge"/>
