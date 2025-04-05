@@ -34,10 +34,9 @@
   <th>Certificate</th>
   </tr>
   <tr>
-    <td><p align="center">test
-</p></td>
-    <td><p>test</p></td>
-    <td><p>test</p></td>
+    <td>Yandex Practicum</td>
+    <td>Data Science Specialist</td>
+    <td>https://github.com/melloignat/certificates/blob/main/Data%20Science%20Specialist.PNG</td>
   </tr>
 </table> 
 
