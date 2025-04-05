@@ -1,8 +1,13 @@
-<p align="center">
-<img width="500" height="200" src="https://github.com/melloignat/melloignat/blob/main/assets/586f7407c39b99124dca5d336af88287.gif"  alt="animated" />
-</p>
+<h1><p align="center">Hi, my name is Ignat! 👋 On my way to AI driven future!</p></h1>
 
-### <p align="center">Hi, my name is Ignat! 👋 On my way to AI driven future!</p>
+<table align="center"; border="0">
+  <tr>
+    <td><p align="center">
+<img width="300" height="150" src="https://github.com/melloignat/melloignat/blob/main/assets/586f7407c39b99124dca5d336af88287.gif"  alt="animated" />
+</p></td>
+    <td><p>Passionate about ML, Data Analysis and IT services creation, automation and continuous improvement aligned with best industry practices and the business strategy.</p><p>ITIL, Cisco, Juniper, Brocade, Red Hat certified specialist. Wide technical background with focus on VoIP. Python, SQL, Bash, Fast API, ML & DS.</p><p>More that 20 years in IT building effective IT support structures based on well-known methodologies and leading diverse teams to enable business to focus on the main things backed up by effective, fast and reliable IT services.</p><p>Current interests tied with IoT and ML areas and Python programming. Actively studying Data Science, ML, DA, LLMs and related technologies for IT services automation through variety of courses and self-education.</p></td>
+  </tr>
+</table> 
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ignat-ivanov-8245681a/">
@@ -18,20 +23,26 @@
   <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge"/>
   </a>
 </div>
-<p></p>
-<div id="about">
- <ul>
-  <li>Passionate about data analisys and ML 📈</li>
-  <li>Ready for any collaboration! 🤝</li>
-</ul> 
-</div>
-<p></p>
-<p align="justify">Passionate about IT services creation, automation and continuous improvement aligned with the business strategy. Like challenging tasks and to work in constantly changing environment shaping IT support and other services to be fit for external and internal clients.
-Have experience to successfully deliver results within short timeframes in an unfamiliar cultural and professional environment. Trained for IT services sales with strong understanding of sales techniques, product positioning, negotiations, storytelling, whiteboarding, final offer preparation, customer relationship support and value realization.
-In IT since 2003. Started from Windows systems administration, moved to network administration later and finally to build and delivery full IT service portfolio and top performing teams. Have many technical certificates from variety of vendors like Cisco, Juniper, Brocade, Red Hat and more. ITIL certified. Wide knowledge of network technologies with focus on VoIP. Results-oriented, overtime job is not a problem. 
-Current interests tied with IoT and ML areas and Python programming. Actively studying Data Science, ML, DA, LLMs and related technologies for IT services automation through variety of courses and self-education.</p>
 
-## Programming languages and DS tools 🔧
+
+## Education 🎓
+
+<table align="center"; border="0">
+  <tr>
+  <th>School name</th>
+  <th>Course Name</th>
+  <th>Certificate</th>
+  </tr>
+  <tr>
+    <td><p align="center">test
+</p></td>
+    <td><p>test</p></td>
+    <td><p>test</p></td>
+  </tr>
+</table> 
+
+
+## Programming languages and DS tools 💾
 
 <div align="center">
 
@@ -45,7 +56,7 @@ Current interests tied with IoT and ML areas and Python programming. Actively st
 
 </div>
 
-## Network and OS tools 🔧
+## Network and OS tools 💻
 
 <div align="center">
 
@@ -56,7 +67,7 @@ Current interests tied with IoT and ML areas and Python programming. Actively st
 
 </div>
 
-## My projects 🔧
+## My projects 📝
 
 
 |Project Name| Description| Technology|
