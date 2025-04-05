@@ -1,4 +1,4 @@
-<h1><p align="center">Hi, my name is Ignat! 👋 On my way to AI driven future!</p></h1>
+<h1><p align="center">Hi, my name is Ignat! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> On my way to AI driven future!</p></h1>
 
 <table align="center"; border="0">
   <tr>
