@@ -38,6 +38,11 @@
     <td>Data Science Specialist</td>
     <td>https://github.com/melloignat/certificates/blob/main/Data%20Science%20Specialist.PNG</td>
   </tr>
+  <tr>
+    <td>Red Hat</td>
+    <td>Red Hat Certified Engineer (RHCE)</td>
+    <td>https://github.com/melloignat/certificates/blob/main/Data%20Science%20Specialist.PNG</td>
+  </tr>
 </table> 
 
 
