@@ -36,6 +36,11 @@
     <td>https://github.com/melloignat/certificates/blob/main/Data%20Science%20Specialist.PNG</td>
   </tr>
   <tr>
+    <td>Karpov Courses</td>
+    <td>Machine Learning Engineer</td>
+    <td>https://github.com/melloignat/certificates/blob/main/Data%20Science%20Specialist.PNG</td>
+  </tr>
+  <tr>
     <td>Cisco</td>
     <td>Cisco Certified Network Professional (CCNP)</td>
     <td>https://github.com/melloignat/certificates/blob/main/CCNP_Ignat_Ivanov_edited.jpg</td>
