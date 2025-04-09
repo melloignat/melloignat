@@ -38,7 +38,7 @@
   <tr>
     <td>Karpov Courses</td>
     <td>Machine Learning Engineer</td>
-    <td>https://github.com/melloignat/certificates/blob/main/Data%20Science%20Specialist.PNG</td>
+    <td>https://github.com/melloignat/certificates/blob/main/CC_ML%20engineer.pdf</td>
   </tr>
   <tr>
     <td>Cisco</td>
